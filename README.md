@@ -5,19 +5,34 @@ This is a Kensington Foundation Discord Bot [Unofficial] that I made for the app
 WARNING!!! 
 
 In order to run this code using your discord bot.
-When you open the code in repl.it
-You must go to .env file and change the "None" in DISCORD_BOT_SECRET=None
+
+When you open the code in "repl.it".
+
+You must go to .env file and change the "None" in DISCORD_BOT_SECRET=None.
+
 To the DISCORD TOKEN for your bot. 
-You can also change TOKEN = YOUR_DISCORD_BOT_TOKEN isntead of TOKEN = os.environ.get("DISCORD_BOT_SECRET")
+
+You can also change TOKEN = YOUR_DISCORD_BOT_TOKEN isntead of TOKEN = os.environ.get("DISCORD_BOT_SECRET").
+
 Note that if the Token is like that people can view due to free account on repl.it being public.
-That's why I save the token in the .env
+
+That's why I save the token in the ".env" file.
+
 Once you do that you should be able to run your bot. 
-Also if you want to keep your bot running 24/7 you could use uptimerobot.com if you use repl.it
+
+Also if you want to keep your bot running 24/7 you could use uptimerobot.com if you use "repl.it".
+
 As repl.it will shut down your bot after a hour or so.
-You just have to tell uptimerobot to ping your bot using the repl.it
+
+You just have to tell uptimerobot to ping your bot using the "repl.it".
+
 If you running your bot 24/7 on hardware that doesn't shut down unless you say so.
+
 You can remove the webserver/flash code. 
+
 Though I recommend leaving it if you still want status message when you visit the site.
+
+
 
 If you have any questions about the bot and the code. Add me on Discord or Twitter.
 
