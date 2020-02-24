@@ -5,19 +5,6 @@ from webserver import keep_alive
 import os
 import json
 from os import path
-from commands import repeatsaved
-from commands import writetoserver
-from commands import readfromserver
-from commands import commandindex
-from commands import checkstorage
-from commands import searchserver
-from commands import HelpCommand
-from commands import devlogs
-from commands import application
-from commands import question
-from commands import readytostart
-from commands import questionsend
-
 
 Client = discord.Client()
 client = commands.Bot(command_prefix = "!")
