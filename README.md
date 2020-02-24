@@ -4,6 +4,7 @@ This is a Kensington Foundation Discord Bot [Unofficial] that I made for the app
 
 WARNING!!! 
 
+On first boot it will have to install python3, discord.py, flask, & python-dotenv.
 In order to run this code using your discord bot.
 
 When you open the code in "repl.it".
