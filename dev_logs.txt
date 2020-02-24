@@ -1,0 +1,7 @@
+In the file, the webserver.py is needed to keep the bot running 24/7 if your running it on a free service like repl.it
+It's suppose to open a webserver and you can use uptimerobot.com to ping your discord bot so it don't shut down.
+This is just a basic discord bot that takes a number,
+does some math,
+return a output message.
+I made this within 10 mins.
+Not sure if I am actauclly gonna time to make this a real thing.
