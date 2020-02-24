@@ -5,4 +5,4 @@ This is a Kensington Foundation Discord Bot [Unofficial] that I made for the app
 
 
 
-[![Run on Repl.it](https://repl.it/badge/github/Tarsteel/Kensington-Foundation-Discord-Bot-Unofficial-)](https://repl.it/github/Tarsteel/Kensington-Foundation-Discord-Bot-Unofficial-)
+[![Run on Repl.it](https://repl.it/@Tarsteel/Kensington-Foundation-Discord-Bot-Unofficial)](https://repl.it/github/Tarsteel/Kensington-Foundation-Discord-Bot-Unofficial-)
